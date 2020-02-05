@@ -1,0 +1,20 @@
+img{
+    height: 350px;
+    width: 450px;
+    border: 20px;
+    border-color: aliceblue;
+}
+body{
+    background-color: #D68910;
+    
+}
+em{
+    color: coral;
+}
+p {
+    color: #2E4053;
+
+}
+strong{
+    color: #C0392B;
+}
